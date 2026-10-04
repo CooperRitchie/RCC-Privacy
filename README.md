@@ -52,4 +52,4 @@ This policy may be updated from time to time. The date at the top of this page r
 If you have any questions about this policy or the app, you can contact:
 
 Cooper Ritchie - Ritchie Contracting & Consulting
-Email: **[YOUR EMAIL ADDRESS HERE]**
+Email: **Cooper@RitchieCC.com.au**
