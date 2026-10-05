@@ -12,7 +12,7 @@ Depending on how you use the app, it may handle the following information:
 - Qualifications that you define, and which of them you assign to each person
 - Standby details you enter, such as destination, start and end times, how many people are needed, and required qualifications
 - The name of your own station or unit, and the names and addresses of any locations you add
-- Your chosen settings, such as your rules profile and whether you use Basic Mode or Memory Mode
+- Your chosen settings, such as your agency, your rules profile and whether you use Basic Mode or Memory Mode
 
 ## Where this information is stored
 
